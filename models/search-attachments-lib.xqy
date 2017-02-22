@@ -3,7 +3,7 @@ xquery version "1.0-ml";
 module namespace m = "http://marklogic.com/roxy/models/search-attachments-lib";
 
 import module namespace c = "http://marklogic.com/roxy/config" at "/app/config/config.xqy";
-import module namespace da = "http://www.gov.uk/dclg/display/display-lib-adapter"   at "display-lib-adapter.xqy";
+import module namespace da = "http://www.gov.uk/dclg/display/display-lib-adapter"   at "/app/models/display-lib-adapter.xqy";
 
 declare namespace prop = "http://marklogic.com/xdmp/property";
 declare option xdmp:mapping "false";
