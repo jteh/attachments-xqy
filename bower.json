@@ -1,0 +1,17 @@
+{
+  "name": "attachments-xqy",
+  "authors": [
+    "JASON TEH <jason.teh@marklogic.com>"
+  ],
+  "description": "attachments xquery",
+  "main": "na",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
